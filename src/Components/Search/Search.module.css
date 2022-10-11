@@ -1,0 +1,27 @@
+.searchbar {
+  margin-top: 5px;
+}
+.searchbar > input {
+  font-size: 20px;
+  padding: 12px;
+  width: 450px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  outline: none;
+  border: none;
+}
+.search {
+  font-size: 20px;
+  padding: 12px;
+  width: 150px;
+  background-color: lightblue;
+  border-top-left-radius: 0;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 10px;
+  margin-left: -4px;
+  border: none;
+  outline: none;
+}

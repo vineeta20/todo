@@ -1,0 +1,30 @@
+.form {
+  /* background-color: aqua; */
+}
+
+.input {
+  width: 247px;
+  height: 50px;
+  font-size: 20px;
+  background-color: #000000;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid black;
+  color: white;
+  padding: 15px;
+}
+
+.form > button {
+  height: 50px;
+  font-size: 20px;
+  margin-left: 4px;
+  padding: 0 15px;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+  background-color: lightblue;
+}
+
+.form > button:disabled {
+  background-color: rgb(53, 106, 124);
+}
